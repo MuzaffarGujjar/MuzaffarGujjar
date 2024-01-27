@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently Working on HTML CSS JAVASCRIPT(NEXT.JS)
 - 💞️ I’m looking to collaborate with a great opportunity
-- 📫 To reach me message me or call me at (+92 320 655 7458)
-  📫 OR EMAIL me at (muzaffargujjar199@gamil.com)
+- 📫 To reach me message or call me at (+92 320 655 7458)
+-  📫 OR EMAIL me at (muzaffargujjar199@gamil.com)
   
 
 <!---
